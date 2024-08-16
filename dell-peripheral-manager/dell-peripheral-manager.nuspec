@@ -17,7 +17,7 @@
     <tags>dell peripheral manager</tags>
     <summary>With Dell Peripheral Manager you can customize and manage your Dell peripherals.</summary>
     <description>The Dell Peripheral Manager software enables you to customize and manage your Dell peripherals such as keyboards, mice, and webcams. The software allows you to customize your settings and get the latest firmware updates.</description>
-    <releaseNotes>https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=2cxg5&oscode=wt64a&productcode=dell-peripheral-manager</releaseNotes>
+    <releaseNotes>https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=2cxg5&amp;oscode=wt64a&amp;productcode=dell-peripheral-manager</releaseNotes>
   </metadata>
   <files>
     <!-- this section controls what actually gets packaged into the Chocolatey package -->
