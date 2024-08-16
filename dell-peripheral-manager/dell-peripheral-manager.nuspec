@@ -4,12 +4,12 @@
   <metadata>
     <id>dell-peripheral-manager</id>
     <version>1.7.6</version>
-    <packageSourceUrl>Where is this Chocolatey package located (think GitHub)? packageSourceUrl is highly recommended for the community feed</packageSourceUrl>
+    <packageSourceUrl>https://github.com/Juskevich/au-packages/tree/master/dell-peripheral-manager</packageSourceUrl>
     <owners>Juskevich</owners>
     <title>Dell Peripheral Manager</title>
     <authors>Dell Inc</authors>
     <projectUrl>https://www.dell.com/en-us/lp/dpem</projectUrl>
-    <iconUrl>http://rawcdn.githack.com/__REPLACE_YOUR_REPO__/master/icons/dell-peripheral-manager.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/Juskevich/au-packages/1525c2c698f4ca81bbc55e76f4bb008abe533002/dell-peripheral-manager/icons/dell-peripheral-manager.png</iconUrl>
     <copyright>Copyright © 2024 Dell Inc. All rights reserved</copyright>
     <licenseUrl>https://www.dell.com/learn/us/en/uscorp1/terms-of-sale-consumer-license-agreements</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
@@ -18,14 +18,6 @@
     <summary>With Dell Peripheral Manager you can customize and manage your Dell peripherals.</summary>
     <description>The Dell Peripheral Manager software enables you to customize and manage your Dell peripherals such as keyboards, mice, and webcams. The software allows you to customize your settings and get the latest firmware updates.</description>
     <releaseNotes>https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=2cxg5&oscode=wt64a&productcode=dell-peripheral-manager</releaseNotes>
-    <!--<dependencies>
-      <dependency id="" version="__MINIMUM_VERSION__" />
-      <dependency id="" version="[__EXACT_VERSION__]" />
-      <dependency id="" version="[_MIN_VERSION_INCLUSIVE, MAX_VERSION_INCLUSIVE]" />
-      <dependency id="" version="[_MIN_VERSION_INCLUSIVE, MAX_VERSION_EXCLUSIVE)" />
-      <dependency id="" />
-      <dependency id="chocolatey-core.extension" version="1.1.0" />
-    </dependencies>-->
   </metadata>
   <files>
     <!-- this section controls what actually gets packaged into the Chocolatey package -->
